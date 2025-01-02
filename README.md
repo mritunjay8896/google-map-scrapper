@@ -1,6 +1,7 @@
-![gmap](https://github.com/user-attachments/assets/80b1f985-bce3-45f4-9bbc-e33b1194aa48)
-</br>
-![gmapscrapper](https://github.com/user-attachments/assets/376179cf-c2e7-4024-8f21-f1e8c697ac71)
+<img src="https://github.com/user-attachments/assets/80b1f985-bce3-45f4-9bbc-e33b1194aa48" alt="gmap" width="618" height="234">
+</br></br></br></br>
+<img src="https://github.com/user-attachments/assets/376179cf-c2e7-4024-8f21-f1e8c697ac71" alt="gmapscrapper" width="446" height="407">
+
 
 
 <h1 style="text-align:center; color:#4CAF50;">Google Maps Data Extractor</h1>
