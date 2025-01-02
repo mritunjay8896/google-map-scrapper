@@ -107,7 +107,3 @@ df.to_excel("extracted_data.xlsx", index=False)
     <li>If Google Maps updates its layout, the class names and XPath selectors may need to be adjusted.</li>
     <li>This script uses Chrome as the default browser, but you can modify it to work with other browsers if needed.</li>
 </ul>
-
-<p style="text-align:center; color:#555;">
-    Enjoy extracting Google Maps data! 🌍📍
-</p>
